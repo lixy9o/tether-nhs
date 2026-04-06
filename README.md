@@ -22,4 +22,4 @@ Anthropic Claude API · Node.js · Express
 UoN MedTech Hackathon '26 — continued as a personal project
 
 ## Live preview
-[View on GitHub Pages (https://github.com/yubblescope/tether-nhs)]
+[View on GitHub: (https://yubblescope.github.io/tether-nhs)]
